@@ -38,6 +38,7 @@ section {
   height: 100%;
   /* border: 2px blue solid; */
   width: 100%;
+  flex-wrap: wrap;
 }
 .cards {
   display: flex;
